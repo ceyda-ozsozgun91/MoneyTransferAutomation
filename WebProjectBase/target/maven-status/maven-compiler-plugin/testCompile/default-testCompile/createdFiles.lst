@@ -1,0 +1,6 @@
+Pages\AddMoneyPage.class
+StepDefinitions\OpenMoneyTransferAccountStepDefinitions.class
+Pages\LoginPage.class
+Pages\AccountPage.class
+Pages\EditAccountPage.class
+Pages\MoneyTransferPage.class

@@ -1,0 +1,8 @@
+<suite name = "Money Transfer Project" >
+    <parameter name ="browser" value ="Chrome" />
+    <test name="Money Transfer Tests" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
