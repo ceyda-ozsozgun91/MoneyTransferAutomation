@@ -22,7 +22,6 @@ Projeyi çalıştırmadan önce aşağıdaki bağımlılıkların sisteminizde y
 - **Java JDK 11+**
 - **Maven 3+**
 - **IntelliJ IDEA veya Eclipse** (Önerilen: IntelliJ IDEA)
-- **Google Chrome & ChromeDriver** (Güncel sürüm önerilir)
 
 ### 2️⃣ Projeyi Klonlayın
 ```bash
